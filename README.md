@@ -71,7 +71,7 @@ phrase is.
 For any agent that reads skill files (Claude Code, Muse, or similar):
 
 ```bash
-git clone https://github.com/<your-username>/tiktok-hook-lab.git
+git clone https://github.com/HASEEB9681/tiktok-hook-lab.git
 cp -r tiktok-hook-lab ~/.claude/skills/   # or your agent's skills folder
 ```
 
